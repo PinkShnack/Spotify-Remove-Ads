@@ -1,5 +1,11 @@
 # Spotify-Remove-Ads
-A simple script that will mute those pesky spotify ads. Requires spotify's play and speaker buttons visible on the screen to work. You also have to have python installed.
+A simple script that will mute those pesky spotify ads. 
+
+Requirements:
+- Python 3
+- Requires spotify's play and speaker buttons visible on the screen to work.
+- Spotify zoom to be at fourth from smallest (view > Zoom in/zoom out).
+- You may need to add more adverts as spotify tries to vary the time each advert takes!
 
 ## Install Steps:
 

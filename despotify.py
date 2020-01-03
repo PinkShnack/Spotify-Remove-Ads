@@ -61,11 +61,13 @@ def unmute_spotify():
         pass
 
 
-ad_symbols = ['screenshots/ad30.png', 'screenshots/ad29.png',
-              'screenshots/ad25.png', 'screenshots/ad16.png',
-              'screenshots/ad20.png', 'screenshots/ad28.png',
-              'screenshots/ad15.png', 'screenshots/ad22.png',
-              'screenshots/ad26.png']
+# ad_symbols = ['screenshots/ad30.png', 'screenshots/ad29.png',
+#               'screenshots/ad25.png', 'screenshots/ad16.png',
+#               'screenshots/ad20.png', 'screenshots/ad28.png',
+#               'screenshots/ad15.png', 'screenshots/ad22.png',
+#               'screenshots/ad26.png', 'screenshots/learn_more.png']
+
+ad_symbols = ['screenshots/learn_more.png']
 
 
 # Driver Code
